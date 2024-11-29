@@ -19,3 +19,8 @@ variable "AWS_SECRET_ACCESS_KEY" {
     description = "The AWS secret access key"
     type        = string
 }
+
+variable "AWS_SESSION_TOKEN" {
+    description = "The AWS session token"
+    type        = string
+}

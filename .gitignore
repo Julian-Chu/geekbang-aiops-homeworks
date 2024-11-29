@@ -38,3 +38,4 @@ terraform.rc
 
 #
 yu-key*
+aws-credentials.txt

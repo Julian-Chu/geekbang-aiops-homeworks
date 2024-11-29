@@ -1,2 +1,0 @@
-export TF_VAR_AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID} TF_VAR_AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
-export KUBECONFIG=/Users/y.chu/Repos/geekbang-aiops-homeworks/week1/homework2/test-cluster_k8s_config 
