@@ -1,5 +1,0 @@
-# homework1
-
-- create VPC with public subnet
-- create EC2 instance in public subnet
-- use ec2 user data to install docker

@@ -1,2 +1,0 @@
-export TF_VAR_AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID} TF_VAR_AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY} TF_VAR_AWS_SESSION_TOKEN=${AWS_SESSION_TOKEN}
-export KUBECONFIG=/Users/y.chu/Repos/geekbang-aiops-homeworks/week1/homework2/terraform/test-cluster_k8s_config 
